@@ -1,0 +1,26 @@
+#searchBox{
+    height: 30vh;
+    width: 30vw;
+
+}
+
+#city_input{
+    margin-top: 10px;
+    width: 75%;
+    height: 50%;
+}
+
+#search{
+    margin-left: 5%;
+    width: 19%;
+    height: 19%;
+    margin-bottom: 5px;
+}
+
+#page{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
